@@ -70,3 +70,7 @@ To uninstall: choose **Quit PomodoroBar** from the menu, then delete `/Applicati
 | `Sources/HotKey.swift` | Global ⌃⌥P shortcut (Carbon; needs no Accessibility permission) |
 | `scripts/make_icon.swift` | Renders the app icon |
 | `build.sh` | Compiles a universal, ad-hoc signed `.app` bundle |
+
+## License
+
+[MIT](LICENSE)

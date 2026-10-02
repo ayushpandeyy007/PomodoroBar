@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>PomodoroBar</string>
 	<key>CFBundleExecutable</key>
 	<string>PomodoroBar</string>
 	<key>CFBundleIconFile</key>
@@ -13,8 +15,6 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>PomodoroBar</string>
-	<key>CFBundleDisplayName</key>
 	<string>PomodoroBar</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
@@ -30,6 +30,8 @@
 	<true/>
 	<key>NSHighResolutionCapable</key>
 	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 ayushpandeyy007. MIT License.</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 </dict>
